@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my Resume](assets/Vanessa White - Resume.pdf)
+[Download my Resume](/assets/Vanessa White - Resume.pdf)
