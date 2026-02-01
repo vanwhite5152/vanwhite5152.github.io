@@ -10,6 +10,7 @@ redirect_from:
 Hi, I'm Vanessa White. I'm a senior at University of Houston studying Computer Science and expected to graduate during the summer of 2026.
 
 Education
+<a href= "https://www.uh.edu/nsm/computer-science/" target="blank">UH Computer Science Department</a>
 ======
 University of Houston 2024-2026 (Expected)
 
