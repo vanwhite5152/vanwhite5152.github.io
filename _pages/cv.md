@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="assests/Vanessa White - Resume.pdf" class="btn btn--primary">Download CV as PDF</a>
+[Download my Resume](assets/Vanessa White - Resume.pdf)
