@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hi, I'm Vanessa White. I'm a senior at University of Houston studying Computer Science and expected to graduate during the summer of 2026.
 
 Education
