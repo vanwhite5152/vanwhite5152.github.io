@@ -27,3 +27,8 @@ Skills
 Programming Languages: C++, Python, some Java
 
 Basic knowledge of programming, including algorithms and data structures. Some knowledge of operating systems, data science, and networking. Currently learning software development and cybersecurity. 
+
+Resume
+======
+
+<a href= "https://vanwhite5152.github.io/assets/Vanessa%20White%20-%20Resume.pdf" target="_blank">Link to my resume</a>
