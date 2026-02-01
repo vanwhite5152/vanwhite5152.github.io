@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 [Download my Resume]((https://vanwhite5152.github.io/assets/Vanessa%20White%20-%20Resume.pdf))
